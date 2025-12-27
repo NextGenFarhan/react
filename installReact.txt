@@ -12,4 +12,4 @@
         - varient:   <js/ts>
     cd <projectName>
     npm install                      # install node_modules
-    npm run dev                       # start the development server 
+    npm run dev                       # start the development server
