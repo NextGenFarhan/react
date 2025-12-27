@@ -13,3 +13,7 @@
     cd <projectName>
     npm install                      # install node_modules
     npm run dev                       # start the development server
+
+
+# Adding tailwind
+    1. 
