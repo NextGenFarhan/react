@@ -1,0 +1,15 @@
+# 1) Full library (using Create React App)
+    -> npm create react-app myFolder   # create a full React project
+    -> cd myFolder                     # go into project folder
+    -> ls                              # package.json should be there
+    -> npm run start                   # start the development server
+    # You can add more folders/libraries later using various commands
+
+# 2) Using Vite (or Parcel)
+    = npm create vite@latest           # initialize a Vite project
+        - projectName: 
+        - framework: <react/react-ts/etc>
+        - varient:   <js/ts>
+    cd <projectName>
+    npm install                      # install node_modules
+    npm run dev                       # start the development server
