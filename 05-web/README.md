@@ -61,7 +61,7 @@ The project demonstrates how to use a **common layout (Header + Footer)** with m
 ---
 ## 👨‍💻 Author
 **Farhan Khan**  
-- GitHub: https://github.com/user/NextGenFarhan
+- GitHub: https://github.com/NextGenFarhan
 
 ---
 
