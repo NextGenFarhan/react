@@ -19,3 +19,6 @@
     1. npm install tailwindcss @tailwindcss/vite
     2. Add import tailwindcss from '@tailwindcss/vite' and plugin[tailwindcss()] in config.js file
     3. add @import "tailwindcss"; in index.css
+
+# installing react router dom 
+    1. npm install react-router-dom
