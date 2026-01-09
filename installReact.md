@@ -22,3 +22,8 @@
 
 # installing react router dom 
     1. npm install react-router-dom
+
+# Installing Redux in the project
+    1. npm install @reduxjs/toolkit
+    2. npm install react-redux
+    3.  now read the document ***
